@@ -4,7 +4,7 @@ This repository is a part of a video tutorial on my YouTube channel: Code With S
 
 ## YouTube
 My channel:
-[CodeWithStein](https://www.youtube.com/channel/UCfVoYvY8BfTDeF63JQmQJvg/?sub_confirmation=1)
+[CodeWithStein] (https://www.youtube.com/watch?v=JjBqRihjwKM)
 
 ## Author
 This repository and video is created by CodeWithStein. Check out my website for more information.
